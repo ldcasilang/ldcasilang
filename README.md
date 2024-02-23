@@ -71,8 +71,34 @@
 
 </div>
 
+
+## Github Stats 
+
+<div align="center">  
+  
+
+
+![ldcasilang's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ldcasilang&theme=tokyonight&hide_border=true) 
+
+</div> 
+
+
+
+
+## GitHub Trophies
+
+<div align="center">  
+  
+![](https://github-profile-trophy.vercel.app/?username=ldcasilang&theme=tokyonight)
+
+</div>
+
+
+<br>
+
 ## Connect with me  
 <div align="center">
+     <br>
 <a href="https://github.com/ldcasilang" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -95,25 +121,3 @@
   
 
 <br/>  
-
-## Github Stats 
-
-<div align="center">  
-  
-
-
-![ldcasilang's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ldcasilang&theme=tokyonight&hide_border=true) 
-
-</div> 
-<br/>  
-
-
-----
-
-## GitHub Trophies
-
-<div align="center">  
-  
-![](https://github-profile-trophy.vercel.app/?username=ldcasilang&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
