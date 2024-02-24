@@ -19,7 +19,7 @@
 
 <a>
      <div align="center">
-     <img src = "https://lh3.googleusercontent.com/proxy/OWzG6yZP7kydp-ShYC1trE8MKxlVTVt-8crdWa8c4FqLvmDqTZy-aGXB8VtamAvINYXTsgeW76CVlLPfsBbWJb2nJAQfDZZnDBKR9gFjabI">
+     <img height = "50px" src = "https://lh3.googleusercontent.com/proxy/OWzG6yZP7kydp-ShYC1trE8MKxlVTVt-8crdWa8c4FqLvmDqTZy-aGXB8VtamAvINYXTsgeW76CVlLPfsBbWJb2nJAQfDZZnDBKR9gFjabI">
      </div>
 </a>
 
