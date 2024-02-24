@@ -83,6 +83,16 @@
 </div>
 
 
+## Projects
+
+<a>
+     <div align="center">
+     <img height = "320px" src = "Projects.png">
+     </div>
+</a>
+
+
+
 ## Github Stats 
 
 <div align="center">  
