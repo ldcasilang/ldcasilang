@@ -87,7 +87,7 @@
 
 <a>
      <div align="center">
-     <img height = "320px" src = "Projects.png">
+     <img height = "300px" src = "Projects.png">
      </div>
 </a>
 
