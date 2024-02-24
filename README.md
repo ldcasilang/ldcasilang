@@ -1,5 +1,10 @@
+<a>
+     <div align="center">
+     <img src = "https://static.wikia.nocookie.net/sailormoon/images/b/b2/Saturn_Crystal_Power_Make_Up.gif/revision/latest?cb=20210607184542">
+     </div>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B218F7&center=true&vCenter=true&random=false&width=1200&lines=Hi!+Welcome+to+my+nook!+%F0%9F%8C%99%F0%9F%8C%9F;What+brings+you+here%3F%3F+%F0%9F%A4%97)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B218F7&center=true&vCenter=true&random=false&width=1000&lines=Hi!+Welcome+to+my+nook!+%F0%9F%8C%99%F0%9F%8C%9F;What+brings+you+here%3F%3F+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 <img src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=ldcasilang&layout=compact&langs_count=15&hide_border=true&title_color=a3a2a0&text_color=FFF&bg_color=0d1117"
      alt="Functional way is the right way"
@@ -11,6 +16,12 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+
+<a>
+     <div align="center">
+     <img src = "https://lh3.googleusercontent.com/proxy/OWzG6yZP7kydp-ShYC1trE8MKxlVTVt-8crdWa8c4FqLvmDqTZy-aGXB8VtamAvINYXTsgeW76CVlLPfsBbWJb2nJAQfDZZnDBKR9gFjabI">
+     </div>
+</a>
 
 ## <div align="center" >I'm Lady, an aspiring front end developer 👨‍💻 currently a 2nd-year BSIT-WMA student 🚀</div>  
   
@@ -95,6 +106,12 @@
 
 
 <br>
+
+<a>
+     <div align="center">
+     <img src = "https://lh3.googleusercontent.com/proxy/OWzG6yZP7kydp-ShYC1trE8MKxlVTVt-8crdWa8c4FqLvmDqTZy-aGXB8VtamAvINYXTsgeW76CVlLPfsBbWJb2nJAQfDZZnDBKR9gFjabI">
+     </div>
+</a>
 
 ## Connect with me  
 <div align="center">
