@@ -1,4 +1,4 @@
-<a>
+![image](https://github.com/user-attachments/assets/0b5f1749-0254-4a1e-83b6-05bd972ff06b)<a>
      <div align="center">
      <img src = "https://static.wikia.nocookie.net/sailormoon/images/b/b2/Saturn_Crystal_Power_Make_Up.gif/revision/latest?cb=20210607184542">
      </div>
@@ -19,7 +19,7 @@
 
 <a>
      <div align="center">
-     <img src = "[https://images.vexels.com/media/users/3/130413/isolated/preview/b867b27e71306589ba725fdfa1244f1f-floral-swirls-divider-2.png](https://pa1.aminoapps.com/7592/79e8454bb1709fb9c51e6e2a193f25d832c50d27r1-750-250_hq.gif)">
+     <img src = "[[https://images.vexels.com/media/users/3/130413/isolated/preview/b867b27e71306589ba725fdfa1244f1f-floral-swirls-divider-2.png](https://pa1.aminoapps.com/7592/79e8454bb1709fb9c51e6e2a193f25d832c50d27r1-750-250_hq.gif)](https://clipart-library.com/images/rTLnqdxyc.gif)">
      </div>
 </a>
 
