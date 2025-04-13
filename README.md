@@ -19,7 +19,7 @@
 
 <a>
      <div align="center">
-     <img height = "50px" src = "[https://lh3.googleusercontent.com/proxy/OWzG6yZP7kydp-ShYC1trE8MKxlVTVt-8crdWa8c4FqLvmDqTZy-aGXB8VtamAvINYXTsgeW76CVlLPfsBbWJb2nJAQfDZZnDBKR9gFjabI](https://images.vexels.com/media/users/3/130413/isolated/preview/b867b27e71306589ba725fdfa1244f1f-floral-swirls-divider-2.png)">
+     <img height = "50px" src = "https://images.vexels.com/media/users/3/130413/isolated/preview/b867b27e71306589ba725fdfa1244f1f-floral-swirls-divider-2.png">
      </div>
 </a>
 
