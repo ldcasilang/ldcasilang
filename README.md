@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0b5f1749-0254-4a1e-83b6-05bd972ff06b)<a>
+<a>
      <div align="center">
      <img src = "https://static.wikia.nocookie.net/sailormoon/images/b/b2/Saturn_Crystal_Power_Make_Up.gif/revision/latest?cb=20210607184542">
      </div>
@@ -13,25 +13,20 @@
      width = "40%"
      align="left" />
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
+<br/>  
 <a>
      <div align="center">
-     <img width= "385px" height = "143px" src = "[[https://images.vexels.com/media/users/3/130413/isolated/preview/b867b27e71306589ba725fdfa1244f1f-floral-swirls-divider-2.png](https://pa1.aminoapps.com/7592/79e8454bb1709fb9c51e6e2a193f25d832c50d27r1-750-250_hq.gif)](https://clipart-library.com/images/rTLnqdxyc.gif)">
+     <img width="385px" height="80px" src = "https://static.myfigurecollection.net/upload/pictures/2024/02/08/3896023.gif">
      </div>
 </a>
 
-## <div align="center" >I'm Lady, an aspiring full-stack developer 👨‍💻 currently a 3rd-year BSIT-WMA student 🚀</div>  
+# <div align="center" >I'm Lady, an aspiring full-stack developer 👨‍💻 currently a 3rd-year BSIT-WMA student 🚀</div>  
   
 
 - 🌱 I’m currently learning Laravel and Flutter
   
-
 - ❓ Ask me about anything related to UI/UX and related fields  
   
-
 - ⚡ Fun fact: I had an addiction with creating Notion templates before. 
   
 
@@ -119,7 +114,7 @@
 
 <a>
      <div align="center">
-     <img src = "https://lh3.googleusercontent.com/proxy/OWzG6yZP7kydp-ShYC1trE8MKxlVTVt-8crdWa8c4FqLvmDqTZy-aGXB8VtamAvINYXTsgeW76CVlLPfsBbWJb2nJAQfDZZnDBKR9gFjabI">
+     <img width="385px" height="80px" src = "https://static.myfigurecollection.net/upload/pictures/2024/02/08/3896023.gif">
      </div>
 </a>
 
