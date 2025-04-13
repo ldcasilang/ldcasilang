@@ -19,7 +19,7 @@
 
 <a>
      <div align="center">
-     <img height = "200px" width= " 500px" src = "[https://images.vexels.com/media/users/3/130413/isolated/preview/b867b27e71306589ba725fdfa1244f1f-floral-swirls-divider-2.png](https://pa1.aminoapps.com/7592/79e8454bb1709fb9c51e6e2a193f25d832c50d27r1-750-250_hq.gif)">
+     <img src = "[https://images.vexels.com/media/users/3/130413/isolated/preview/b867b27e71306589ba725fdfa1244f1f-floral-swirls-divider-2.png](https://pa1.aminoapps.com/7592/79e8454bb1709fb9c51e6e2a193f25d832c50d27r1-750-250_hq.gif)">
      </div>
 </a>
 
