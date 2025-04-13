@@ -13,15 +13,12 @@
      width = "40%"
      align="left" />
 
-<br/>  
-<a>
-     <div align="center">
-     <img width="385px" height="80px" src = "https://static.myfigurecollection.net/upload/pictures/2024/02/08/3896023.gif">
-     </div>
-</a>
 
-# <div align="center" >I'm Lady, an aspiring full-stack developer 👨‍💻 currently a 3rd-year BSIT-WMA student 🚀</div>  
-  
+<a>
+
+## <div align="center" >I'm Lady, an aspiring full-stack developer 👨‍💻 currently a 3rd-year BSIT-WMA student 🚀</div>  
+
+<br/>
 
 - 🌱 I’m currently learning Laravel and Flutter
   
