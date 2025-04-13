@@ -23,10 +23,10 @@
      </div>
 </a>
 
-## <div align="center" >I'm Lady, an aspiring front end developer 👨‍💻 currently a 2nd-year BSIT-WMA student 🚀</div>  
+## <div align="center" >I'm Lady, an aspiring full-stack developer 👨‍💻 currently a 3rd-year BSIT-WMA student 🚀</div>  
   
 
-- 🌱 I’m currently learning Python and Java 
+- 🌱 I’m currently learning Laravel and Flutter
   
 
 - ❓ Ask me about anything related to UI/UX and related fields  
